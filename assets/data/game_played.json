@@ -1,0 +1,24 @@
+[
+    {
+      "id": "gp_1",
+      "room_id": "room_1",
+      "user_id": "user_2",
+      "game_type": "truth",
+      "completed_at": "2025-04-12T10:08:00Z"
+    },
+    {
+      "id": "gp_2",
+      "room_id": "room_1",
+      "user_id": "user_3",
+      "game_type": "dare",
+      "completed_at": "2025-04-12T10:09:00Z"
+    },
+    {
+      "id": "gp_3",
+      "room_id": "room_3",
+      "user_id": "user_1",
+      "game_type": "truth",
+      "completed_at": "2025-04-11T20:30:00Z"
+    }
+  ]
+  

@@ -1,0 +1,27 @@
+[
+    {
+      "id": "msg_1",
+      "room_id": "room_1",
+      "sender_id": "user_1",
+      "type": "text",
+      "content": "Hey! Let’s start the game",
+      "timestamp": "2025-04-12T10:03:00Z"
+    },
+    {
+      "id": "msg_2",
+      "room_id": "room_1",
+      "sender_id": "user_3",
+      "type": "text",
+      "content": "Ready 😎",
+      "timestamp": "2025-04-12T10:04:00Z"
+    },
+    {
+      "id": "msg_3",
+      "room_id": "room_2",
+      "sender_id": "user_2",
+      "type": "text",
+      "content": "Waiting for more players...",
+      "timestamp": "2025-04-12T09:35:00Z"
+    }
+  ]
+  

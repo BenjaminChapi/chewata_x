@@ -1,0 +1,30 @@
+[
+    {
+      "id": "user_1",
+      "username": "biniam_dev",
+      "email": "biniam@example.com",
+      "is_premium": true,
+      "games_played_this_week": 5,
+      "rooms_created_today": 1,
+      "online": true
+    },
+    {
+      "id": "user_2",
+      "username": "sami_cool",
+      "email": "sami@example.com",
+      "is_premium": false,
+      "games_played_this_week": 8,
+      "rooms_created_today": 1,
+      "online": false
+    },
+    {
+      "id": "user_3",
+      "username": "lala_star",
+      "email": "lala@example.com",
+      "is_premium": false,
+      "games_played_this_week": 2,
+      "rooms_created_today": 0,
+      "online": true
+    }
+  ]
+  

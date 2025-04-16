@@ -1,0 +1,5 @@
+[
+  { "id": "join_1", "room_id": "room_1", "user_id": "user_2", "joined_at": "2025-04-12T10:01:00Z" },
+  { "id": "join_2", "room_id": "room_1", "user_id": "user_3", "joined_at": "2025-04-12T10:02:00Z" },
+  { "id": "join_3", "room_id": "room_2", "user_id": "user_1", "joined_at": "2025-04-12T09:32:00Z" }
+]
